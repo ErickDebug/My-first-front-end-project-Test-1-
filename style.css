@@ -1,7 +1,25 @@
-body {
-    background-color: #005c1f;
-    max-width: 900px;
-    margin: auto;
-    font-size: 20px;
-    line-height: 1.6;
+/*BACKGROUND*/
+
+body{
+    background: linear-gradient(-135deg,#006437 50%, #7a0019 50%);
+
 }
+
+
+/*TEXT*/
+
+body{
+    color:whitesmoke;
+    font-size: 30px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/*IMAGENS*/
+
+img{
+    width: 800px;
+    display: block;
+    margin:auto;
+}
+
